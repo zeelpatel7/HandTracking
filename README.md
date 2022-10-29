@@ -8,4 +8,4 @@ This works on the following concepts -
 
 The module is first created for hand tracking which recognises and detects the hand along with the fingers. The finger tips are defined by certain numeric descriptions. Each joint is also given a numeric description. The output from the module is thus an array that is created which mentions the certain joint number along with its x and y coordinates. These coordinates let us know exactly what movement are the fingers along with the hand making. 
 
-![alt text](https://github.com/zeelpatel7/HandTracking/blob/main/Pictures/Screenshot%20(67).png)
+![alt text]<img src ="(https://github.com/zeelpatel7/HandTracking/blob/main/Pictures/Screenshot%20(67).png)" width = "100" height = "100">
