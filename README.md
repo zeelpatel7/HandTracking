@@ -1,7 +1,7 @@
 # HandTracking
 This project consists of two different functionalities - ability to use a virtual mouse through hand gesture recognition along with the detection of sign language. 
 
-##Virtual Mouse 
+## Virtual Mouse 
 This works on the following concepts - 
 1. OpenCV
 2. Python libraries such as numpy
